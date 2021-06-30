@@ -10,6 +10,8 @@ I should note that there is one annoying thing. The way the cube is drawn the y 
   
  <h3>Preview</h3>
  Anyway here's a preview of the program:
+ 
+ 
 
 
 ![preview](https://github.com/iogisdaki/RubiksCubeAutoSolve/blob/main/preview.png)
