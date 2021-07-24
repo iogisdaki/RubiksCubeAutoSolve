@@ -1,4 +1,4 @@
-abstract class SolutionAlgorithm { //inheritance for code reuse yikes I know Im sorry Im lazy
+abstract class SolutionAlgorithm { //inheritance for code reuse yikes I know Im sorry Im lazy and this is just for fun
 
   abstract void solve();
 
