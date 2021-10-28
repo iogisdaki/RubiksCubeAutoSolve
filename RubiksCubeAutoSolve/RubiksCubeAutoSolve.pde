@@ -1,5 +1,5 @@
 import peasy.*;
-PeasyCam cam;//PeasyCam provides mouse-driven camera
+PeasyCam cam;
 
 //---------------change me if you like -------------------
 float speed = 0.1;
@@ -40,7 +40,7 @@ void setup() {
 void draw() {
   noFill();
   background(51);
-  scale(50);//to scale the cube according to the size of the screen
+  scale(50);
 
   currentMove.update();
 
